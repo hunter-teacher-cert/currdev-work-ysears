@@ -1,0 +1,5 @@
+When I taught AP CSP, I used two tools: the Code.org platform and Quizizz.
+
+The Code.org platform is essentially an IDE, but it has lessons that are built into the IDE. Because it is a pre-written course, each lesson included tasks that needed to be done using the IDE. My administration had decided that this was the curriculum they wanted to use, primarily because it was free. It is also good for students with no prior coding experience, which included most of my former students.
+
+Quizizz was a platform that I began using during Covid and continued because my students enjoyed the platform. It's purpose is to track mastery through assessment. But it gamifies it! I used it whenever we were reviewing for summative assessments. It stoked friendly competition and allowed me to see which concepts students were still not understanding. You're able to customize questions, responses and see an analysis of student data. 
